@@ -106,15 +106,12 @@ Developed query-based dashboards for advanced security investigations.
 - Kibana for designing interactive dashboards and visualizations for real-time security monitoring..
 
 ## Steps
-![image](https://github.com/user-attachments/assets/f34d4f56-4c3b-4e98-acb0-3eb99d2b2ee7)
 
-  Fg 1. Dashboard
+![Image](https://github.com/user-attachments/assets/39a2e589-65f5-4d66-868d-e0c3b25d321d)
 
-![image](https://github.com/user-attachments/assets/ff24bf87-9c0a-4f73-9d73-cd0272484ccc)
 
-  Fg 2. Endpoint Logs 
+![Image](https://github.com/user-attachments/assets/186354ad-c7cb-4675-9af7-8afa8b148b0f)
 
-  ![image](https://github.com/user-attachments/assets/6f7a5acd-9079-4003-bf03-049b5279ecd4)
+![Image](https://github.com/user-attachments/assets/fe95c6b7-23a9-4ac5-826a-40e6d3ba569d)
 
-  Fg 3. Raw Logs 
 

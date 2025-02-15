@@ -1,8 +1,8 @@
 # SIEM-Implementation-and-Log-Analysis
 
 # Topology
-![Image](https://github.com/user-attachments/assets/a417d525-28ee-4d45-8b5b-0362a4427019)
-                                         
+![Image](https://github.com/user-attachments/assets/be915cea-4f7c-4295-a16e-3b24119f6847)
+
 ## Objective
 
 To showcase the deployment and configuration of an Elastic Stack SIEM integrated with a Kali Linux virtual machine, focusing on real-time threat detection and enhanced incident response capabilities. This project highlights the implementation of Elastic Defend agents and custom alerting mechanisms for detecting network scans, particularly Nmap, along with the development of interactive Kibana dashboards for improved monitoring, threat detection, and vulnerability assessment. The goal is to demonstrate proficiency in SIEM setup, advanced monitoring techniques, and security event analysis through visualizations and tailored alerts.

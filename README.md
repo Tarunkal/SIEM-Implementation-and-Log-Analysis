@@ -114,4 +114,6 @@ Developed query-based dashboards for advanced security investigations.
 
 ![Image](https://github.com/user-attachments/assets/fe95c6b7-23a9-4ac5-826a-40e6d3ba569d)
 
+![Image](https://github.com/user-attachments/assets/60e61b7a-aa58-44d0-b529-1071d546d03f)
+
 
